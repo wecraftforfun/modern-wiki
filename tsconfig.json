@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@WeCraftForFun/api-interface": ["libs/api-interface/src/index.ts"]
+      "@WeCraftForFun/api-interface": ["libs/api-interface/src/index.ts"],
+      "@WeCraftForFun/data": ["libs/data/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
